@@ -5,7 +5,7 @@ $(function(){
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 200,
+        autoplaySpeed: 250,
     });
     
     // $(".btn").on("click",()=>{

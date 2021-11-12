@@ -10,7 +10,7 @@ background-size:cover
 header{
   position:fixed;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 84, 31, 0.9);
   padding: 20px;
   display: flex;
   align-items: center;
@@ -18,7 +18,7 @@ header{
   top: 0;
   left: 0;
   font-size: 15px;
-  font-family: monospace,
+  font-family: serif,
 }
 
 #wave{
@@ -29,6 +29,7 @@ header{
   background-position: center center;
   background-repeat: repeat-x;
   margin-left: auto;
+  font-family: serif,
 }
 
 
@@ -37,6 +38,7 @@ header{
   background-color: rgb(0, 0, 0);
   margin: 110px auto;
   text-align: center;
+  font-family: serif,
 }
 
 img{
